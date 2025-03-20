@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Python Programming",
+        "author": "John Doe",
+        "isbn": "978-1234567890",
+        "available": true
+    },
+    {
+        "title": "Advanced Python",
+        "author": "Jane Smith",
+        "isbn": "978-0987654321",
+        "available": true
+    },
+    {
+        "title": "Data Science with Python",
+        "author": "Bob Johnson",
+        "isbn": "978-5678901234",
+        "available": true
+    },
+    {
+        "title": "Java Programming",
+        "author": "Alice Brown",
+        "isbn": "978-9876543210",
+        "available": true
+    }
+]
